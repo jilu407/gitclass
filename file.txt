@@ -1,2 +1,4 @@
 "Welcom to Resource"
 "Welcome potech"
+
+"welcome to clone"
