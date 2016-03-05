@@ -1,5 +1,11 @@
 "Welcom to Resource"
+<<<<<<< HEAD
 
 
 "welocme to protech"
 "wELCOME TO clone"
+=======
+"Welcome potech"
+
+"welcome to clone"
+>>>>>>> jiluclone
